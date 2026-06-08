@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+*.tmp
+*.pdf
+captures/
+screenshots/
+review_log*.jsonl
+coach_errors*.jsonl
+node_modules/
+.venv/
+dist/
+
